@@ -4,6 +4,4 @@ function addUser() {
 
     localStorage.setItem("player1", player1_name);
     localStorage.setItem("player2", player2_name);
-
-    window.location = "https://bellam403.github.io/Math-Quiz-2/";
 }
